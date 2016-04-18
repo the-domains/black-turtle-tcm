@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[the black turtle clinic exists in order to give you the opportunity to strengthen your connection to nature. ]]></title>
         <description><![CDATA[the black turtle clinic exists in order to give you the opportunity to strengthen your connection to nature. ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/black-turtle-tcm/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Apr 2016 19:18:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 18 Apr 2016 19:50:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/black-turtle-tcm/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/65390ba0-aec3-48ae-855a-245ed67cd23d.jpg">]]></description>
+            <link>https://thegrid.ai/black-turtle-tcm/07f4e1c3-6f36-412b-8f27-556aaf036c33/index.html</link>
+            <guid isPermaLink="false">07f4e1c3-6f36-412b-8f27-556aaf036c33</guid>
+            <pubDate>Mon, 18 Apr 2016 19:49:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>BLACK TURTLE TCM CLINIC</p>]]></description>
-            <link>undefinedblack-turtle-tcm-clinic/index.html</link>
+            <link>https://thegrid.ai/black-turtle-tcm/black-turtle-tcm-clinic/index.html</link>
             <guid isPermaLink="false">c6fba1fd-fe8a-443f-805d-f892c9249c6b</guid>
             <pubDate>Mon, 18 Apr 2016 19:18:44 GMT</pubDate>
         </item>
