@@ -1,0 +1,28 @@
+name: black turtle TCM
+favicon: null
+layout_spectrum: 0.7255133085418493
+typography_spectrum: 0.04412484704516828
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5598678658716381
+  lightness: 0.2920815299730748
+  saturation: 0.1487466488033533
+  rhythmicContrast: 0.9108020304702222
+purpose: []
