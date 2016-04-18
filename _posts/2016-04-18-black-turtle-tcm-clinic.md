@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: BLACK TURTLE TCM CLINIC
-datePublished: '2016-04-18T19:18:44.269Z'
-dateModified: '2016-04-18T19:18:43.232Z'
+datePublished: '2016-04-18T20:00:02.031Z'
+dateModified: '2016-04-18T19:59:50.086Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-18-black-turtle-tcm-clinic.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-18-black-turtle-tcm-clinic.md
-published: true
 url: black-turtle-tcm-clinic/index.html
 _type: Article
 
@@ -29,3 +29,4 @@ the black turtle clinic exists in order to give you the opportunity to strengthe
 at black turtle we seek to become your ally through all stages of your life, providing wellness and preventative (truly _health_) care. we also take care in the treatment of sickness where it has already become manifest. in both cases empowering you with the tools and agency to effect meaningful change in your life for the better.
 
 black turtle TCM clinic is located at 250 main street in montpelier VT, 05602\. for appointments call baylen (802) 310 1400
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5ffff574-18b7-4c77-9c3e-4caf2b746a83.jpg)
